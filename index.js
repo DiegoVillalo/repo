@@ -1,4 +1,4 @@
-function suma( numero1:number, numero2:number) {
+function suma( numero1:number, numero2) {
 
     
     return numero1=numero2;
